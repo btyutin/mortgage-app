@@ -202,5 +202,6 @@ REST /mortgage/agreements/{id}/companyAcceptsPayment
 
 ### Тестовый стенд
 
-Тестовый стенд (бек + фронт + блокчейн) расположен по адресу https://mortgage.easychain.tech/
-
+[Тестовый стенд](https://mortgage.easychain.tech/) (бек + фронт + блокчейн) расположен по адресу
+[Поработать с API](https://mortgage.easychain.tech/api/v0/mortgage-app/swagger-ui.html) напрямую можно по ссылке
+[Обозреватель Blockchain](https://explorer.mortgage-dev.weintegrator.com/)  (логин/пароль: Test1@test.ru/Test1@test.ru)
